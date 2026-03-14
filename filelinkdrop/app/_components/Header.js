@@ -73,7 +73,7 @@ function Header() {
 transition-all duration-300 transform 
 hover:from-cyan-500 hover:to-pink-400 
 hover:scale-105 hover:shadow-lg hover:shadow-cyan-500/40"
-                                    href="#">
+                                    href="/files">
                                     Get Started
                                 </a>
                             </div>
